@@ -9,9 +9,12 @@
 
 ## Author
 
-👤 **João Seidel, Erick Oppelt, Bruno Quadrotti**
+👤 **João Seidel, Erick Opelt, Bruno Quadrotti**
 
-* Github: [@joaoseidel, brunoquadrotti, erickeuller](https://github.com/joaoseidel, brunoquadrotti, erickeuller)
+* Github: 
+    - [@joaoseidel](https://github.com/joaoseidel)
+    - [@erickeuller](https://github.com/erickeuller)
+    - [@brunoquadrotti](https://github.com/brunoquadrotti)
 
 ## Show your support
 
@@ -19,7 +22,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [João Seidel, Erick Oppelt, Bruno Quadrotti](https://github.com/joaoseidel, brunoquadrotti, erickeuller).<br />
+Copyright © 2019 [João Seidel](https://github.com/joaoseidel), [Erick Oppelt](https://github.com/erickeuller), [Bruno Quadrotti](https://github.com/brunoquadrotti).<br />
 This project is [GPL 3.0](https://github.com/erickeuller/sticker-meetings/blob/master/LICENSE) licensed.
 
 ***
