@@ -22,7 +22,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [João Seidel, Erick Oppelt, Bruno Quadrotti](https://github.com/joaoseidel, brunoquadrotti, erickeuller).<br />
+Copyright © 2019 [João Seidel](https://github.com/joaoseidel), [Erick Oppelt](https://github.com/erickeuller), [Bruno Quadrotti](https://github.com/brunoquadrotti).<br />
 This project is [GPL 3.0](https://github.com/erickeuller/sticker-meetings/blob/master/LICENSE) licensed.
 
 ***
