@@ -11,7 +11,10 @@
 
 👤 **João Seidel, Erick Oppelt, Bruno Quadrotti**
 
-* Github: [@joaoseidel, brunoquadrotti, erickeuller](https://github.com/joaoseidel, brunoquadrotti, erickeuller)
+* Github: 
+    - [@joaoseidel](https://github.com/joaoseidel)
+    - [@erickeuller](https://github.com/erickeuller)
+    - [@brunoquadrotti](https://github.com/brunoquadrotti)
 
 ## Show your support
 
