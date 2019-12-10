@@ -9,7 +9,7 @@
 
 ## Author
 
-👤 **João Seidel, Erick Oppelt, Bruno Quadrotti**
+👤 **João Seidel, Erick Opelt, Bruno Quadrotti**
 
 * Github: 
     - [@joaoseidel](https://github.com/joaoseidel)
